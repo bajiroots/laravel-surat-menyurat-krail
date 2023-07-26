@@ -151,7 +151,7 @@ Untuk login aplikasi silakan masukkan surel dan kata sandi berikut
 
 | Surel      | admin@admin.com |
 |------------|-----------------|
-| Kata Sandi | admin           |
+| Kata Sandi | krail2023       |
 
 ## Language / Bahasa
 Tersedia 2 pilihan bahasa untuk web app ini, bahasa Indonesia dan Inggris.
